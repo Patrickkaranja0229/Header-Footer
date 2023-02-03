@@ -1,0 +1,19 @@
+
+.nav-container {
+  display: flex;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+  color: brown;
+  font-weight: bold;
+  font-family: fantasy;
+  }
+.rotess ul {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  align-items: center;
+}
+.rotess li {
+  list-style: none;
+}

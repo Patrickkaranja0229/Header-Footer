@@ -1,0 +1,25 @@
+.Footer {
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  .Footer p {
+    margin: 0;
+
+  }
+  
+  .Footer button {
+    background-color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+  }
+  button {
+  display: block;
+  margin: 0 auto;
+  background-color: blue;
+  size: 0mm;
+}
